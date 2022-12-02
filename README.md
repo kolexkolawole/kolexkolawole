@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kolexkolawole&label=Profile%20views&color=0e75b6&style=flat" alt="kolexkolawole" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kolexkolawole&label=Site%20views&color=0e75b6&style=flat" alt="kolexkolawole" /> </p>
 
 
 <p align="left"> <a href="https://github.com/kolexkolawole?achievement=pull-shark&tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=kolexkolawole" alt="kolexkolawole" /></a> </p>
