@@ -1,0 +1,489 @@
+
+
+
+
+
+
+
+
+.heading_link{
+	font-weight: 500;
+	font-size: 1rem;
+
+}
+
+.heading_link a{
+	color: #000000;
+	align-items: center;
+	padding: 1rem;
+}
+
+.heading_link a:hover{
+	color:#FF7A00 ;
+}
+.responsive_mobile_links ul li{
+	padding: 6px;
+}
+.responsive_mobile_links{
+	height: 100%;
+}
+
+.responsive_mobile_links ul li a{
+	color: #ffffff;
+	font-size: 1.1rem;
+
+}
+.responsive_mobile_links ul li a:hover{
+	color:#FF7A00 ;
+	text-decoration: none;
+}
+.slider-cont{
+	/*background-image: url("../images/background.png");*/
+	background-position: right top;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+   
+}
+.slider-cont .portfolio_link, .slider-cont .download_cv_link, .about_section .about_section_desc .about_section_main_desc .about_section_desc_link{
+	font-weight: 700;
+	font-size: 1rem;
+	line-height: 32px;
+	/* identical to box height */
+	color: #FFFFFF;
+	background: #FF7A00;
+	border-radius: 90px;
+	border-color: transparent;
+	padding: 0.8rem 1rem;
+}
+.slider-cont .download_cv_link {
+	background: #000000;;
+}
+.slider-cont .portfolio_link:hover, .slider-cont .download_cv_link:hover, .about_section .about_section_desc .about_section_main_desc .about_section_desc_link:hover {
+	box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.services_section{
+	background: #000000;
+	padding-bottom: 80px;
+
+}
+.services_section .services_title h1, .services_section .services_title p{
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+.services_section .services_cards_section .card{
+	background: #141414;
+	border-radius: 20px;
+	padding: 14px 14px;
+}
+.services_section .services_cards_section .card.services_pb{
+	padding-bottom: 72px;
+}
+
+.services_section .services_cards_section .card .cont_services_img{
+
+	background: #FFFFFF;
+	border-radius: 200px;
+	align-items: center;
+	box-sizing: content-box;
+	width: 50px;
+	padding: 10px;
+}
+.services_section .services_cards_section .card .cont_services_img img{
+	width: 100%;
+}
+.services_section .services_cards_section .col-md-6{
+	margin-bottom: 22px;
+}
+.services_section .services_cards_section .card h1 {
+	margin-top: 16px;
+	color:  #FF7A00;
+}
+.services_section .services_cards_section .card p{
+	color: #FFFFFF;
+
+}
+.project_section {
+	padding-top: 10rem;
+	padding-bottom: 10rem;
+}
+.project_section .project_section_title{
+	font-weight: 600;
+	padding-left: 15px;
+	padding-bottom: 20px;
+}
+.project_section .project_desc_section{
+	margin-top: 10px;
+}
+.project_section .project_desc_section .project_desc_title div{
+	padding: 12px;
+}
+.project_section .project_desc_section .project_desc_title h1{
+	margin-top: 30px;
+	font-weight: 700;
+	font-size: 2.5rem;
+	color: #FF7A00;
+	text-align: justify;
+}
+.project_section .project_desc_section .project_desc_div{
+	background: #FFFFFF;
+	height: 320px;
+	padding: 20px;
+	border-radius: 10px;
+}
+.project_section .project_desc_section .project_desc_div p{
+	font-weight: 500;
+	font-size: 1.2rem;
+	color: #000000;
+}
+.project_section .project_desc_section .project_desc_title  img{
+	width: 100%;
+	mix-blend-mode: luminosity;
+	opacity: 0.16;
+}
+
+.project_section .project_img_section .row .col-md-6{
+	padding: 10px;
+	padding-top: 0px;
+
+}
+.project_section .project_img_section .row .col-md-6:nth-child(1), .project_section .project_img_section .row .col-md-6:nth-child(2){
+		padding-top: 0;
+}
+.project_section .project_img_section .row .col-md-6 .img_div{
+		
+	padding: 10px;
+	background: #FFFFFF;
+	border-radius: 10px;
+	text-align: center!important;
+
+}
+.project_section .project_img_section .row .col-md-6 .img_div img{
+	height: 135px;
+	max-width: 100%;
+
+}
+.about_section{
+	background: #000000;
+	padding-bottom: 8rem;
+	padding-top: 8rem;
+}
+
+.about_section .about_section_title{
+	font-weight: 600;
+	padding-left: 15px;
+	padding-bottom: 20px;
+	color: #FFFFFF;
+	
+}
+
+.about_section .about_section_img_div{
+		
+	width: 100%;
+}
+
+.about_section .about_section_img_div img{
+		
+		max-height: 400px;
+		max-width: 100%;
+		object-fit: cover;
+		border-radius: 12px;
+		overflow: hidden;
+}
+
+.about_section .about_section_desc .about_section_main_desc h2{
+	margin-top: 10px;
+	color: #FFFFFF;
+	font-weight: 600;
+	font-size: 2.5rem;
+
+}
+.about_section .about_section_desc .about_section_main_desc p{
+	font-weight: 500;
+	margin-top:2rem;
+	font-size: 1.2rem;
+	color: #FFFFFF;
+}
+.about_section .about_section_desc .about_section_main_desc .about_section_desc_link{
+	font-size: 1.2rem;
+	padding: 1rem 1.6rem;
+}
+
+.contact_info_section{
+	padding-bottom: 8rem;
+	padding-top: 8rem;
+}
+
+.contact_info_section .icon_full_section {
+	background: #FFFFFF;
+	border-radius: 10px;
+	padding: 4rem 5rem;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+
+.contact_info_section .icon_section {
+	color:#FF7A00;
+	margin-right: 14px;
+	
+}
+.contact_info_section .main_contact_details{
+	font-weight: 600;
+	font-size: 1.5rem;
+	color: #000000;
+	word-wrap: break-word;
+	max-width: 100%;
+}
+
+.footer_section{
+	background: #000000;
+	padding-top: 8rem;
+	padding-bottom: 8rem;
+}
+.footer_section .footer_section_desc{
+	width: 100%;
+	margin-bottom: 36px;
+	text-align: center;
+}
+.footer_section .footer_section_desc h1{
+	font-weight: 700;
+	font-size: 3rem;
+	color: #FFFFFF;
+}
+.footer_section .footer_section_img_div{
+	text-align: center;
+	width: 100%;
+}
+.footer_section .footer_section_img_div img{
+	height: 40px;
+	margin-right: 8px;
+	margin-left: 8px;
+}
+
+.navbar-toggler-icon{
+	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0,0,0,1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+
+
+
+
+@media (max-width: 768px){
+	.slider-cont .slide-cont-dets{
+		background: #000000d4;
+		color: #FFFFFF;
+		padding: 24px;
+	}
+	.project_img_section{
+		padding-top: 1rem;
+	}
+	.project_section .project_img_section .row .col-md-6 .img_div{
+		padding: 2px;
+		border-radius: 30px;
+	}
+	.project_section .project_img_section .row .col-md-6 .img_div img{
+		width: 100%;
+		height: 100%;
+		border-radius: 30px;
+	}
+
+	.contact_info_section .main_contact_details{
+	
+		font-size: 1.2rem;
+		text-align: center;
+		
+	}
+
+	.contact_info_section .icon_full_section {
+		flex-direction: column;
+		padding:  2rem 3rem;
+	}
+.footer_section .footer_section_img_div img{
+	height: 30px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <--footer adjustments--> */
+@media (min-width: 768px)
+.text-md-left {
+    /* text-align: left!important; */
+}
+.text-center {
+    /* text-align: center!important; */
+}
+
+.footer-flex-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 56px;
+    padding: 20px;
+}
+@media (min-width: 768px)
+.text-md-left {
+    text-align: left!important;
+}
+.text-center {
+    text-align: center!important;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+* {
+    font-family: 'Montserrat';
+    font-style: normal;
+}
+* {
+    font-family: 'Montserrat';
+    font-style: normal;
+}
+* {
+    box-sizing: border-box;
+    font-family: Averta, sans-serif;
+    /* overflow: hidden; */
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+body {
+    margin: var(--header-height)000;
+    padding: 0;
+    font-family: var(--body-font);
+    font-size: var(--normal-font-size);
+    font-weight: 500;
+}
+body {
+    margin: var(--header-height)000;
+    padding: 0;
+    font-family: var(--body-font);
+    font-size: var(--normal-font-size);
+    font-weight: 500;
+}
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+<section>
+  <footer>
+<div class="footer">
+<footer class="footer my-container mx-auto">
+  <div class="footer-flex-container text-center text-md-left">
+      <div class="flex-1">
+        <img alt="" class="footer-logo" src="./static/indeximg/logo1.png">
+      </div>
+    
+
+      <div class="flex-3">
+        <h3>Links</h3>
+        <a href="Portfolio">
+          <p>Portfolio</p>
+        </a>
+        <a href="https://index.html">
+          <p>Blog(under Construction)</p>
+        </a>
+      </div>
+.
+      <div class="flex-4 address">
+        <h3>Contact</h3>
+        <p>Ado-Ota <br>Ogun State, Nigeria</p>
+        <p>
+          <a href="mailto:hello@kolexkolawole.com">
+            hello@KolexTech
+          </a>
+        </p>
+      </div>
+
+      <div class="flex-5">
+        <h3>Follow ME</h3>
+        <div class="contact-icons">
+          <a target="_blank" href="https://tinyurl.com/3uazn6vr"> <img alt="" src="./static/indeximg/fb.png">
+          </a>
+          <a target="_blank" href="https://tinyurl.com/yk6euwdh"> <img alt="" src="./static/indeximg/twitter.png">
+          </a>
+          <a target="_blank" href="https://tinyurl.com/4h92xjtu"> <img alt="" src="./static/indeximg/IG.png">
+          </a>
+          <a target="_blank" href="https://tinyurl.com/46ym9v7j"> <img alt="" src="./static/indeximg/Git.png">
+          </a>
+          <a target="_blank" href="https://tinyurl.com/ymzy5tyn"> <img alt="" src="./static/indeximg/Link.png">
+          </a>
+          
+          <a href="#"> <img alt="" src="./static/indeximg/in.png"> </a>
+        </div>
+      </div>
+    
+  </footer>
+</section>
