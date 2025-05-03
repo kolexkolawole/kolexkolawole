@@ -1,5 +1,5 @@
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm KOLEX KOLAWOLE AKANNI</h1>
+<h1 align="center">Hi 👋, I'm KOLEX </h1>
 <h3 align="center">A COMPUTER ENGINEER, NETWORK ENGINEER, FRONT END DEVELOPER and a Software Engineer in training</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
